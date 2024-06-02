@@ -1,0 +1,7 @@
+form {
+  display: inline-block;
+}
+
+input {
+  margin-right: 10px; /* Add some spacing between input elements if needed */
+}
